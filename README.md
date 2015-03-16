@@ -1,8 +1,8 @@
 # S.I.-Encriptacion-cesar
 
 Modulos del programa - Creadores
-/*************************************
-Estructura de datos - Jonatan
+/*************************************\n
+Estructura de datos - Jonatan\n
 
 
-**************************************/
+**************************************/\n
